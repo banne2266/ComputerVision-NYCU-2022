@@ -1,6 +1,6 @@
 /HW1/test/*/*.bmp
 /HW1/ply/*
-
+/HW1/report.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
